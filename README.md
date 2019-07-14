@@ -40,5 +40,5 @@ Attributes?
 
 > - **ng-model** required.
 > - **max-length="3"**: How many numbers allowed maximum.
-> - **abondon-callback**: The value is the function that will be executed if you leave the keypad and have the value empty.   "might be helpful if you want to return to the older value"
+> - **abandon-callback**: The value is the function that will be executed if you leave the keypad and have the value empty.   "might be helpful if you want to return to the older value"
 > - **getter-setter**: The value is the function that will be executed  after you enter a value from the keypad and click SET, this would be helpful to verify if the number you entered is valid.
